@@ -1,0 +1,159 @@
+html {
+	height: 100%;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+body {
+	min-height: 100%;
+	flex-direction: column;
+	background-image: url("../images/old_moon_@2X.jpg");
+}
+
+
+hr {
+	margin-bottom: 20px;
+}
+
+p {
+	display: inline;
+	line-height: 1.5;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	background-color: #4aaaa5;
+}
+
+.alignment {
+	float: left;
+	height: 70px;
+	width: 350px;
+	margin-top: 0 auto;
+	background-color: #4aaaa5;
+	box-sizing: content-box;
+	display: inline-block;
+	text-align: center;
+}
+
+.contacthr {
+	margin: 0 auto;
+}
+
+.contentwrapper {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #4aaaa5;
+}
+
+.containerwidth {
+	width: 650px;
+}
+
+section {
+	box-sizing: border-box;
+	width: 650px;
+	border-color: #dddddd;
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 30px;
+	display: inline-block;
+	float: left;
+}
+
+.headerfont {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.otherfont {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+	background-color: #ffffff;
+	margin: 0 auto;
+	height: 70px;
+	box-sizing: border-box;
+}
+
+img {
+	padding-right: 15px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+
+nav {
+	float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 25px;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+li {
+	display: inline;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.line {
+	border-right: 1px solid #666666
+}
+
+
+aside {
+	background-color: #ffffff;
+	width: 270px;
+	text-align: center;
+	box-sizing: content-box;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: right;
+	display: inline-block;
+}
+
+.gallery {
+	float: left;
+}
+
+.gallery1 {
+	float: right;
+}
+
+
+
+input {
+	width: 588px;
+    height: 15px;
+}
+
+textarea {
+	width: 588px;
+}
+
+.submit {
+	width: 100px;
+}
+
+.pagewrap {
+	width: 960px;
+	margin: 0 auto;
+}
+
+footer {
+	background-color: #666666;
+	clear: both;
+	text-align: center;
+	padding: 25px;
+	font-size: 12px;
+}
+
+
+
